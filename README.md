@@ -14,6 +14,7 @@ Power BI, Power Query, Excel
 
 ## File:
 Sales_Dashboard.pbix
+
 The dataset used in this project contains sales transaction data with the following fields:
 
 Order ID
