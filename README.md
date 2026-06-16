@@ -14,3 +14,14 @@ Power BI, Power Query, Excel
 
 ## File:
 Sales_Dashboard.pbix
+The dataset used in this project contains sales transaction data with the following fields:
+
+Order ID
+Product
+Category
+Region
+Quantity
+Unit Price
+Date
+
+The dataset was used to analyze sales performance and build interactive visualizations in Power BI.
